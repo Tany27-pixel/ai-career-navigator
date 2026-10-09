@@ -1,0 +1,12 @@
+
+career,interest,description,skills
+AI Engineer,Artificial Intelligence,Build applications using AI models,"Python; Machine Learning; Mathematics"
+Machine Learning Engineer,Artificial Intelligence,Develop machine learning systems,"Python; Scikit-learn; Statistics"
+NLP Engineer,Artificial Intelligence,Build systems that process human language,"Python; NLP; Deep Learning"
+Data Scientist,Data Science,Analyze data and build predictive models,"Python; Statistics; Machine Learning"
+Data Analyst,Data Science,Find useful insights in datasets,"SQL; Python; Data Visualization"
+Frontend Developer,Web Development,Create website user interfaces,"HTML; CSS; JavaScript"
+Backend Developer,Web Development,Build server-side application logic,"Python; APIs; Databases"
+Security Analyst,Cybersecurity,Monitor systems and investigate security alerts,"Networking; Linux; Security Fundamentals"
+Software Developer,Software Engineering,Build and maintain software,"Programming; Git; Problem Solving"
+Cloud Engineer,Cloud Computing,Deploy and manage cloud infrastructure,"Linux; Networking; Cloud Platforms"
